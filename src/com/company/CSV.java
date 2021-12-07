@@ -12,7 +12,7 @@ public class CSV {
     /**
      * An array that stores information about all the people in the file
      */
-    public ArrayList<Human> humans
+    public ArrayList<Human> humans;
     /**
      * An array that stores all the divisions from the file
      */
